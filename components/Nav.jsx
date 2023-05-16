@@ -3,7 +3,7 @@ import Link from 'next/link'
 import Image from 'next/image'
 import {useState, useEffect} from 'react';
 import {signIn, signOut, useSession, getProviders} from 'next-auth/react'
-import cat from '../assets/cat.png'
+import cat from '../assets/images/cat.png'
 import Logo from '../assets/images/logo.svg'
 
 
